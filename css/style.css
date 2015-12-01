@@ -88,6 +88,15 @@ div.discussion-author a img {
 ul.horizontal-list li {
   display: inline;
 }
+.social li {
+  margin-right: 10px;
+}
+.social li a {
+  color: #939A9D;
+}
+.social li a:hover, a:hover {
+  color: #368DB4;
+ }
 ul.discussion-media {
   background: #FFF none repeat scroll 0% 0%;
   border: 1px solid #E9EBEC;
