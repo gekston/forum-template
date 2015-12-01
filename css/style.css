@@ -46,6 +46,16 @@ p {
   font-family:"freight-text-pro", "Palatino Linotype", "Book Antiqua", Palatino, serif;
   font-weight:400
 }
+a {
+  color: #368DB4;
+  text-decoration: none;
+}
+a:focus {
+	outline:thin dotted
+}
+a:active,a:hover {
+	outline:0
+}
 b,strong {
 	font-weight:bold
 }
