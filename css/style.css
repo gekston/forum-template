@@ -101,16 +101,21 @@ span.status-user {
 .s6 a {
   text-align: right;
 }
-span.time-stamp {
-  text-align: right;
+.time-stamp [class*="in-words"] {
+	display:inline
 }
-span.in-words {}
-span.in-time {
-  display: none;
+.time-stamp .in-time {
+	display:none
+}
+.time-stamp:hover [class*="in-words"] {
+	display:none
+}
+.time-stamp:hover .in-time {
+	display:inline
 }
 ul.horizontal-list {
   padding: 0px;
-margin: 0px;
+  margin: 0px;
   font-size: 0px;
   line-height: 0;
 }
