@@ -96,8 +96,17 @@ ul.discussion-media {
 ul.discussion-media li {
   list-style-type: none;
 }
+h6.comments-header {
+  color: #B7BABD;
+  letter-spacing: 1px;
+  line-height: 21px;
+  text-transform: uppercase;
+  border-bottom: 1px solid #F0F1F2;
+  margin: 0px 0px 19.5px;
+  padding-bottom: 20px;
+}
 div.comment-body {
-  margin-left: 85px;
+  margin-left: 95px;
 }
 img.user-img {
   border-radius: 40px;
