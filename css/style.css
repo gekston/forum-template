@@ -88,6 +88,26 @@ div.discussion-author a img {
 div.comment-user {
   margin: 40px 0px 0px;
 }
+span.status-user {
+  height: 18px;
+  line-height: 14px;
+  padding: 0px 6px;
+  font-size: 13px;
+  background: #EC553C none repeat scroll 0% 0%;
+  border-color: #EC553C;
+  border-radius: 5px;
+  color: #FFF;
+}
+.s6 a {
+  text-align: right;
+}
+span.time-stamp {
+  text-align: right;
+}
+span.in-words {}
+span.in-time {
+  display: none;
+}
 ul.horizontal-list {
   padding: 0px;
 margin: 0px;
