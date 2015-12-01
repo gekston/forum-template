@@ -88,11 +88,16 @@ div.discussion-author a img {
 ul.horizontal-list li {
   display: inline;
 }
+ul.discussion-media {
+  background: #FFF none repeat scroll 0% 0%;
+  border: 1px solid #E9EBEC;
+  padding: 1em 2em;
+}
 ul.discussion-media li {
   list-style-type: none;
 }
 div.comment-body {
-margin-left: 85px;
+  margin-left: 85px;
 }
 img.user-img {
   border-radius: 40px;
