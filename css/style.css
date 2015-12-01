@@ -85,6 +85,9 @@ div.discussion-author a img {
   height: 40px;
   width: 40px;
 }
+div.comment-user {
+  margin: 40px 0px 0px;
+}
 ul.horizontal-list li {
   display: inline;
 }
