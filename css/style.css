@@ -94,9 +94,6 @@ ul.discussion-media li {
 div.comment-body {
 margin-left: 85px;
 }
-p img {
-  max-width: 100%;
-}
 img.user-img {
   border-radius: 40px;
   -webkit-transform: scale(1.2);
